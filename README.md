@@ -148,8 +148,3 @@ Local Storage: Saves user preferences (theme and name) and restores them on relo
  Credits
 
 Project created by [Your Name] for Assignment 3.
-
-License
-
-This project is licensed under the MIT License.
-You are free to use, modify, and distribute this project with proper attribution.
