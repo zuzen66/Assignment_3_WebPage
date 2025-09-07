@@ -144,7 +144,3 @@ User Greeting: Enter your name, and the page will greet you with "Hello, <name>"
 To-Do List: Accessible via password; allows you to add, remove, save, and load learning tasks.
 
 Local Storage: Saves user preferences (theme and name) and restores them on reload.
-
- Credits
-
-Project created by [Your Name] for Assignment 3.
