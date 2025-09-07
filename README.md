@@ -106,3 +106,54 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   
+ Project Title
+
+My First-Year University Web Page
+
+Project Description
+
+This project is a simple multi-page website built using HTML, CSS, and JavaScript.
+It represents my first-year experience at university, the courses I am learning, and includes a To-Do List application.
+The web page demonstrates interactive elements such as theme toggling, image switching, dynamic headings, date/time display, and local storage features.
+
+⚙️ How to Install and Run the Project
+
+Clone or download this repository:
+
+git clone https://github.com/your-username/Assignment_3_WebPage.git
+
+
+Open the folder Assignment_3_WebPage.
+
+Open the file index.html in any modern web browser (Google Chrome, Firefox, Edge).
+
+Make sure JavaScript is enabled in your browser.
+
+ How to Use the Project
+
+Home Page: Shows an introduction and welcome message.
+
+Courses Page: Lists my first-year courses.
+
+Theme Toggle: Use the "Toggle Theme" button to switch between light and dark mode.
+
+Image Buttons: Click buttons to change the displayed image and photographer name.
+
+User Greeting: Enter your name, and the page will greet you with "Hello, <name>".
+
+To-Do List: Accessible via password; allows you to add, remove, save, and load learning tasks.
+
+Local Storage: Saves user preferences (theme and name) and restores them on reload.
+
+ Credits
+
+Project created by [Your Name] for Assignment 3.
+
+Images used under Creative Commons licenses (photographer credits included in the project).
+
+GitHub README inspiration from GitHub Docs
+
+License
+
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute this project with proper attribution.
