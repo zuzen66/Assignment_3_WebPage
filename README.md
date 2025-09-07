@@ -116,7 +116,7 @@ This project is a simple multi-page website built using HTML, CSS, and JavaScrip
 It represents my first-year experience at university, the courses I am learning, and includes a To-Do List application.
 The web page demonstrates interactive elements such as theme toggling, image switching, dynamic headings, date/time display, and local storage features.
 
-⚙️ How to Install and Run the Project
+How to Install and Run the Project
 
 Clone or download this repository:
 
